@@ -1,0 +1,15 @@
+.fly{
+    width: 10px;
+    height: 10px;
+    border: 1px solid grey;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
